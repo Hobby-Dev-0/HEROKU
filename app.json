@@ -11,7 +11,7 @@
   ],
   "repository": "https://github.com/ULTRA-OP/HEROKU/",
   "website": "https://github.com/ULTRA-OP/HEROKU/",
-  "success_url": "https://t.me/ULTRAXCHAT",
+  "success_url": "https://t.me/Avenger_BOT_support",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -87,19 +87,19 @@
     },
     "PLUGIN_CHANNEL": {
       "description": "skip or Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "9999"
+      "value": ""
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "skip or create a private channel and then type .get_id add that value here for save messages",
-      "value": "99999"
+      "value": ""
     },
     "PRIVATE_GROUP_ID": {
       "description": "skip or Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
-      "value": "999999"
+      "value": ""
     },
     "PM_LOGGR_BOT_API_ID": {
        "description": "skip or for login private messages create a private channel and do .get_id and add that id", 
-       "value": "99999"
+       "value": ""
     }, 
     "STRING_SESSION": {
       "description": "Get this value by running https://replit.com/@legendx22/ULTRA-X#main.py ",
