@@ -1,6 +1,6 @@
 {
   "name": "Aveภgerຮ",
-  "description": "THE SUPER USERBOT MADED BY TEAM LEGEND AND TEAM ULTRA MANY MODULES AND SUPER BOT; JOIN @UltraXChat FOR HELP ",
+  "description": "THE SUPER USERBOT MADED BY TEAM LEGEND AND TEAM ULTRA MANY MODULES AND SUPER BOT; JOIN @Avenger_BOT_support FOR HELP ",
   "logo": "https://telegra.ph/file/949acd88c4b9cd4f72485.jpg",
     "keywords": [
     "telegram",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ULTRA-OP/HEROKU/",
-  "website": "https://github.com/ULTRA-OP/HEROKU/",
+  "repository": "https://github.com/Avenger6262/HEROKU/",
+  "website": "https://github.com/Avenger6262/HEROKU/",
   "success_url": "https://t.me/Avenger_BOT_support",
   "env": {
     "ENV": {
@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @LEGENDX22.",
+      "description": "Fill your Full name or Username like @Royal_Boy_45.",
       "value": "",
       "required": false
     },
